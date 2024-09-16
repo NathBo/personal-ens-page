@@ -59,6 +59,12 @@ export default function Home() {
         <section id="about">
         <h2 className="text-3xl">About Me</h2>
         <p className="text-lg">I am in M1 Computer Science at ENS Ulm (Paris).</p>
+        <div>
+      <span>You can see my L3 grades </span>
+      <a href="/grades.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
+        here
+      </a>
+    </div>
         </section>
 
         <section id="projects">
