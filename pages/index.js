@@ -36,6 +36,11 @@ export default function Home() {
               </a>
             </li>
             <li>
+              <a href="#Teaching" className="hover:underline">
+                Teaching
+              </a>
+            </li>
+            <li>
               <a href="#contact" className="hover:underline">
                 Contact
               </a>
@@ -87,6 +92,15 @@ export default function Home() {
             A static analyser for a subset of C.
           </li>
         </ul>
+      </section>
+
+      <section id="Teaching">
+      <h2 className="text-3xl">Teaching</h2>
+      <p className="text-lg">I gave some tutoring in the prépa MPSI of Saint-Louis, as part of the TalENS program.</p>
+      <a href="/tutoring" className="text-blue-300 hover:underline">
+        here
+      </a>
+      
       </section>
 
       <section id="contact">
