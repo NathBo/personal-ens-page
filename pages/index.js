@@ -83,7 +83,11 @@ export default function Home() {
             A microprocessor that runs a clock, programmable via a custom assembly langage.
           </li>
           <li>
-            Kfet_Invaders : A snes game playable on original snes hardware.
+            Kfet_Invaders : A snes game playable on original snes hardware. <br/>
+
+            <a href="k-fet_invaders.sfc" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
+           Download
+          </a>
           </li>
           <li>
             GitAne : A plugin-based git written in C++ that is highly customizable.
