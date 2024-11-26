@@ -101,8 +101,8 @@ export default function Home() {
       <section id="Teaching">
       <h2 className="text-3xl">Teaching</h2>
       <p className="text-lg">I gave some tutoring in the prépa MPSI of Saint-Louis, as part of the TalENS program.</p>
-      <a href="/tutoring" className="text-blue-300 hover:underline">
-        here
+      <a href="/tutorat" className="text-blue-300 hover:underline">
+        More Info
       </a>
       
       </section>
