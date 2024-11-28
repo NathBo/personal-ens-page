@@ -33,6 +33,9 @@ export default function Tutoring() {
         <li><a href="/tutoring/Tutorat_Ensembles_et_applications.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
           Ensembles et Applications
           </a></li>
+        <li><a href="/tutoring/Tutorat_nombres_complexes.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
+          Nombres complexes
+          </a></li>
       </ul>
     </div>
   );
