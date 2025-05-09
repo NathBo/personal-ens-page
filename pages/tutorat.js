@@ -42,6 +42,12 @@ export default function Tutoring() {
         <li><a href="/tutoring/Tutorat_fonctions_continues_et_dérivables.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
           Fonctions continues et dérivables
           </a></li>
+        <li><a href="/tutoring/Tutorat_groupes.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
+          Groupes
+          </a></li>
+        <li><a href="/tutoring/Espaces_Vectoriels.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">
+          Espaces vectoriels
+          </a></li>
       </ul>
     </div>
   );
